@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @mr-mods-yg
-- 👀 I’m interested in ...
-Making something unique
-- 🌱 I’m currently learning ...
-Python, C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-yg292001@gmail.com
+- 👋 Hi, I’m @mr-mods-yg . Hello Boy!
+- 👀 Start with basic.. Keep Learning
+- 🌱 Python, C#
+- 💞️ Maybe Later
+- 📫 yg292001@gmail.com
 
 <!---
 mr-mods-yg/mr-mods-yg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
