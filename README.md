@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mr-mods-yg . Hello Boy!
+- 👋 Hello Boy! , I’m @mr-mods-yg . 
 - 👀 Start with basic.. Keep Learning
 - 🌱 Python, C#
 - 💞️ Maybe Later
