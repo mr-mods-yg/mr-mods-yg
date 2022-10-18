@@ -1,6 +1,6 @@
 [![@mr_mods's Holopin board](https://holopin.me/mr_mods)](https://holopin.io/@mr_mods)
 
-- 👋 Hello Boy! , I’m @mr-mods-yg . 
+- 👋 Hello Boy! , I’m Yash Garg aka MrMods <#TheCatGang>
 - 👀 Start with basic.. Keep Learning
 - 🌱 Python, C#
 - 💞️ Maybe Later
