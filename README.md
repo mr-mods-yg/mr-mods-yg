@@ -1,8 +1,8 @@
 [![@mr_mods's Holopin board](https://holopin.me/mr_mods)](https://holopin.io/@mr_mods)
 
 - 👋 Hello Boy! , I’m Yash Garg aka MrMods <#TheCatGang>
-- 👀 Start with basic.. Keep Learning
-- 🌱 Python, C#
+- 👀 Exploring The Technology
+- 🌱 Python, C# , C (current)
 - 💞️ Maybe Later
 - 📫 yg292001@gmail.com
 - :star: CodeIN Community Member
