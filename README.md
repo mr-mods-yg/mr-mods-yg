@@ -1,8 +1,11 @@
 [![@mr_mods's Holopin board](https://holopin.me/mr_mods)](https://holopin.io/@mr_mods)
 
+Why doing simple things.. 
+
+Let's automate them
 - 👋 Hello Boy! , I’m Yash Garg aka MrMods <#TheCatGang>
 - 👀 Exploring The Technology
-- 🌱 Python , Html, css , Bootstrap, Java(current)
+- 🌱 Python , Java(current)
 - 💞️ Maybe Later
 - 📫 yg292001@gmail.com
 - :star: CodeIN Community Member
