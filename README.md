@@ -2,7 +2,7 @@
 
 - 👋 Hello Boy! , I’m Yash Garg aka MrMods <#TheCatGang>
 - 👀 Exploring The Technology
-- 🌱 Python, C# , C (current)
+- 🌱 Python , Html, css , Bootstrap, Java(current)
 - 💞️ Maybe Later
 - 📫 yg292001@gmail.com
 - :star: CodeIN Community Member
