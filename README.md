@@ -6,8 +6,7 @@ Let's automate them
 - 👋 Hello Boy! , I’m Yash Garg aka MrMods <#TheCatGang>
 - 👀 Exploring The Technology
 - 🌱 Python , Java(current)
-- 💞️ Maybe Later
-- 📫 yg292001@gmail.com
+- 📫 twitter - [@mr_mods](https://twitter.com/mr_mods_yg)
 - :star: CodeIN Community Member
 
 
