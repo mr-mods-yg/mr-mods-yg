@@ -4,8 +4,8 @@ Why doing simple things..
 
 Let's automate them
 - 👋 Hello Boy! , I’m Yash Garg aka MrMods <#TheCatGang>
-- 👀 Exploring The Technology
-- 🌱 Python , Java(current)
+- 👀 I am currently exploring The Technologies
+- 🌱 Python , C, Java
 - 📫 twitter - [@mr_mods](https://twitter.com/mr_mods_yg)
 - :star: CodeIN Community Member
 
