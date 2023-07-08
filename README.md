@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">👨‍💻 A passionate developer from India #LearningInPublic </h3>
 
 <p align="left"> <a href="https://twitter.com/mr_mods_yg" target="blank"><img src="https://img.shields.io/twitter/follow/mr_mods_yg?logo=twitter&style=for-the-badge" alt="mr_mods_yg" /></a> </p>
 
