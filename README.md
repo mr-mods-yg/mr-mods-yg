@@ -9,10 +9,10 @@
 <h3 align="left">🌐 Connect with me:</h3>
 
 <p align="left">
-<a href="https://twitter.com/mr_mods_yg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_mods_yg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/@mr-mods" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@mr-mods" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mr_mods" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mr_mods" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/mr_mods" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/mr_mods" height="30" width="40" /></a>
+<a href="https://twitter.com/mr_mods_yg" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/768px-Logo_of_Twitter.svg.png?20220821125553" alt="mr_mods_yg" height="30" width="40" /></a> 
+<a href="https://linkedin.com/in/mr-mods" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png?20140125013055" alt="@mr-mods" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/mr_mods" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png?20190719232508" alt="mr_mods" height="40" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/mr_mods" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/116px-GeeksforGeeks.svg.png?20200909192408" alt="https://auth.geeksforgeeks.org/user/mr_mods" height="30" width="45" /></a>
 </p>
 
 <h3 align="left">💻 Languages and Tools:</h3>
