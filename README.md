@@ -1,10 +1,24 @@
+
+<h1 align="center">Hi 👋, I am Yash Garg </h1>
+
+<h3 align="center">👨‍💻 A passionate programmer , game developer from India #LearningInPublic </h3>
+<br>
+
+- 💻 Proficient in: Java, Python, Flask, AWT, Swing, HTML, Bootstrap, Git/GitHub, Unity, and more.
+  
+- 🎯 Career Goals : My goals are to always get better at coding, learn new skills, and work on meaningful projects that have an impact.
+  
+- 🎮 Game Development: Exploring game development with Unity and 3d Modeling with Blender.
+  
+- 🌐 Interests: Full-stack web development, and game development.
+  
+- 📫 How to reach me **yg292001@gmail.com**
+
+  
 [![@mr_mods's Holopin board](https://holopin.me/mr_mods)](https://holopin.io/@mr_mods)
 
 
-
-<h3 align="center">👨‍💻 A passionate programmer , game developer from India #LearningInPublic </h3>
-
-<p align="left"> <a href="https://twitter.com/mr_mods_yg" target="blank"><img src="https://img.shields.io/twitter/follow/mr_mods_yg?logo=twitter&style=for-the-badge" alt="mr_mods_yg" /></a> </p>
+[![](https://visitcount.itsvg.in/api?id=mr-mods-yg&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 <h3 align="left">🌐 Connect with me:</h3>
 
@@ -23,7 +37,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-mods-yg&show_icons=true&theme=dark&locale=en" alt="mr-mods-yg" /></p>
 
-[![](https://visitcount.itsvg.in/api?id=mr-mods-yg&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 <!---
 mr-mods-yg/mr-mods-yg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
