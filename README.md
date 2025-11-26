@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I am Yash Garg </h1>
 
-<h3 align="center">👨‍💻 A passionate programmer , game developer from India #LearningInPublic </h3>
+<h3 align="center">👨‍💻 A passionate programmer from India #LearningInPublic </h3>
 
 <h3 align="left">🙂 About Me:</h3>
 
