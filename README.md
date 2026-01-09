@@ -1,23 +1,17 @@
 
-<h1 align="center">Hi 👋, I am Yash Garg </h1>
+<h1 align="center">Yash Garg </h1>
 
-<h3 align="center">👨‍💻 A passionate programmer from India #LearningInPublic </h3>
+<h3 align="center">Software and Full-Stack Web Developer </h3>
 
-<h3 align="left">🙂 About Me:</h3>
+<h3 align="left">About Me:</h3>
 
-- 💻 Proficient in: Java, Python, Flask, AWT, Swing, HTML, Bootstrap, Git/GitHub, Unity, and more.
+- Tech Stack : NextJS, React, TypeScript, JavaScript, Prisma, MongoDB, ExpressJS, NodeJS, TailwindCSS, Git/GitHub, Unity, and more.
   
-- 🎯 Career Goals : My goals are to always get better at coding, learn new skills, and work on meaningful projects that have an impact.
+- Career Goals: My goals are to always get better at coding, learn new skills, and work on meaningful projects that have an impact.
   
-- 🎮 Game Development: Exploring game development with Unity and 3d Modeling with Blender.
+- Interests: Full-stack web development and game development.
   
-- 🌐 Interests: Full-stack web development, and game development.
-  
-- 📫 How to reach me **yg292001@gmail.com**
-
-<h3 align="left">💻 Languages and Tools:</h3>
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+- How to reach me **yg292001@gmail.com**
 
 <h3 align="left">🌐 Connect with me:</h3>
 
@@ -28,7 +22,7 @@
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/mr_mods" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/116px-GeeksforGeeks.svg.png?20200909192408" alt="https://auth.geeksforgeeks.org/user/mr_mods" height="30" width="45" /></a>
 </p>
 
-<h3 align="left">🏆 Achievements:</h3>  
+<h3 align="left">Achievements:</h3>  
 
 [![@mr_mods's Holopin board](https://holopin.me/mr_mods)](https://holopin.io/@mr_mods)
 
