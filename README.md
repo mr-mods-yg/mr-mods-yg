@@ -13,6 +13,12 @@
   
 - Mail : **yg292001@gmail.com**
 
+<h3 align="left">Projects:</h3>
+https://driplist.in/
+
+https://open-notion.vercel.app/
+
+
 <h3 align="left">Badges:</h3>  
 
 [![@mr_mods's Holopin board](https://holopin.me/mr_mods)](https://holopin.io/@mr_mods)
