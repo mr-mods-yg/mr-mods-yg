@@ -14,10 +14,12 @@
 - Mail : **yg292001@gmail.com**
 
 <h3 align="left">Projects:</h3>
-https://driplist.in/
 
-https://open-notion.vercel.app/
+- https://driplist.in/
 
+- https://open-notion.vercel.app/
+
+- http://vernaan.vercel.app/ (frontend design)
 
 <h3 align="left">Badges:</h3>  
 
